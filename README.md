@@ -1,5 +1,7 @@
 # coffee-co
 
+VIDEO DA AVALIAÇÃO https://youtu.be/XHxRep6ULPc
+
 ## Checklist | Indicadores de Desempenho (ID) dos Resultados de Aprendizagem (RA)
 
 #### RA1 - Utilizar Frameworks CSS para estilização de elementos HTML e criação de layouts responsivos.
